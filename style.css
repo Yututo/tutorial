@@ -1,0 +1,61 @@
+.text {
+	position: absolute;
+	left: 540px;
+	top: 30px;
+	margin: 0px;
+}
+.btn {
+	position: absolute;
+	left: 760px;
+	top: 200px;
+	margin: 0px;
+	border: none;
+	background: green;
+	border-radius: 8px;
+	font-size: 30px;
+}
+.btn1 {
+	position: absolute;
+	left: 760px;
+	top: 100px;
+	margin: 0px;
+	border: none;
+	background: orange;
+	border-radius: 8px;
+	font-size: 30px;
+	width: 320px;
+}
+.ssilka {
+	text-decoration: none;
+	color: black;
+}
+.text1 {
+	position: absolute;
+	left: 200px;
+	top: 50px;
+	margin: 0px;
+}
+.text2 {
+	position: absolute;
+	left: 230px;
+	top: 100px;
+	margin: 0px;
+}
+.text3 {
+	position: absolute;
+	left: 200px;
+	top: 150px;
+	margin: 0px;
+}
+.text4 {
+	position: absolute;
+	left: 230px;
+	top: 200px;
+	margin: 0px;
+}
+.video {
+	position: absolute;
+	left: 400px;
+	top: 250px;
+	margin: 0px;
+}
